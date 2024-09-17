@@ -1,5 +1,5 @@
 import Express from "express";
-import MedicineRoute from "./router/medicinerouter"
+import MedicineRoute from "./router/medicineRouter"
 
 const app = Express()
 // Izinkan body membaca request ke JSON Format
